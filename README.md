@@ -85,7 +85,12 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Empty-Imagination)
-[![Blog](https://img.shields.io/badge/WeChat-GrowbitLab-07C160?style=for-the-badge&logo=wechat&logoColor=white)]()
+
+### 微信公众号：GrowbitLab
+
+<img src="https://raw.githubusercontent.com/Empty-Imagination/Empty-Imagination/main/images/wechat-qrcode.jpg" width="200" alt="微信公众号二维码" />
+
+*AI 学习笔记 & 技术分享*
 
 </div>
 
