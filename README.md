@@ -11,8 +11,7 @@
 🤖 Passionate about **AI**, **NLP**, and **Computer Vision**  
 💻 Building things with **Python** and **C++**  
 
-- 🔭 I'm currently working on face recognition systems and NLP applications
-- 🌱 I'm currently learning deep learning, LLMs, and systems programming
+- 🌱 I'm currently learning deep learning, NLP, LLMs, and systems programming
 - 📝 I write on my blog: **微信公众号：GrowbitLab**
 
 <br>
@@ -32,19 +31,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Empty-Imagination&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Empty-Imagination&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Empty-Imagination&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
