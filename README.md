@@ -7,7 +7,7 @@
 ## About Me
 
 🎓 **M.Sc. in Data Science (Computational Linguistics)** @ University of Macau  
-📍 Based in China  
+📍 Based in Hefei  
 🤖 Passionate about **AI**, **NLP**, and **Computer Vision**  
 💻 Building things with **Python** and **C++**  
 
